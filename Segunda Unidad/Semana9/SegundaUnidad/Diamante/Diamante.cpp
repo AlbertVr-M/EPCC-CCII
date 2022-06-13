@@ -1,4 +1,3 @@
-#include "Diamante.h"
 #include <sstream>
 #include "Diamante.h"
 using namespace std;
