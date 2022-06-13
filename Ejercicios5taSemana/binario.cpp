@@ -1,8 +1,9 @@
+/*Escriba un programa para convertir un número decimal a
+  binario
+*/
 #include <iostream>
 #include <vector>
-
 using namespace std;
-
 void binario(int decimal,vector<int> num_bin ){
 
     int residuo = decimal%2;
